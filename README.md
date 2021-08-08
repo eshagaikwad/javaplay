@@ -8,4 +8,4 @@
  check the app below. 👇
  
  
- javaplay.netlify.app
+https://javaplay.netlify.app/
